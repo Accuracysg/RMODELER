@@ -1,10 +1,10 @@
-# RMODELER INITIALIZATION
+# RMODELER DOWNLOAD & INITIALIZATION
 
 
 
 
 
-Step1.Download the application code from RMODELER public repository.
+Step1.Download the application folder from RMODELER public repository.
 
 
 
@@ -20,7 +20,7 @@ Step3:Run the Index.html page for open RMOLEDER Application
 
 # RMODELER  USAGE
 
-This application used to perform the data analytics as well as R statatical modeling 
+This application used to perform the data analytics as well as R statistical modelling for data analysis
 
 User don't want to write the coding,we provided drag & drop option to perform the analytics
 
@@ -34,4 +34,4 @@ then run the job to get the basic information for that data set.
 
 # RMODELER  VERSION 
 
-ROMDELER Open Soure Version V1 
+ROMDELER Open Soure Realsed Version V1 
