@@ -1,5 +1,5 @@
 # RMODELER INITIALIZATION
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial
 
 Step1.Download the application code from RMODELER public repository.
 
