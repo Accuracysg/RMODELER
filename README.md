@@ -42,12 +42,20 @@ This application used to perform the data analytics as well as R statistical mod
 User don't want to write the coding,we provided drag & drop option to perform the analytics
 
 
-Ex:Loading data set then apply the simple R summary function
+Ex1:Applying the summary function on dataset
+
+Loading data set then apply the simple R summary function
 
 
 For the above example user don't want to write the R code just drang the csv file and summary function from the application
 
 then run the job to get the basic information for that data set. 
+
+Ex2:Data base connection 
+
+We can simoly connect  data base(MySQL,SQL Server..etc) by providing small information like user name,password,dbname,host
+
+User don't want to write the code for database connections.
 
 # RMODELER  VERSION 
 
