@@ -1,11 +1,11 @@
 # RMODELER Initialization
 
-Step1.Download the code from RMODELER public repository into local system 
+Step1.Download the application code from RMODELER public repository.
 
 
 
 
-Step2.Open the  RMODELER-master zip folder and extract it then you can find the Index.html page 
+Step2.Open downloaded  RMODELER-master zip folder and extract it then you can find the Index.html page 
 
 
 
