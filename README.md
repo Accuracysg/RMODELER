@@ -1,5 +1,6 @@
 # RMODELER INITIALIZATION
 
+http://i.imgur.com/tXSoThF.png
 
 Step1.Download the application code from RMODELER public repository.
 
