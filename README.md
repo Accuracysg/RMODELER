@@ -12,3 +12,9 @@ Step2.Open downloaded  RMODELER-master zip folder and extract it then you can fi
 
 
 Step3:Run the Index.html page for open RMOLEDER Application
+
+
+# RMODELER DOCUMENTATION & USAGE
+
+This application used to perform the data analytics as well as statatical modeling 
+User dont want to write the coding,we provided drag & drop option to perform the analytics
