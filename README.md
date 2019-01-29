@@ -1,4 +1,4 @@
-# RMODELER Initialization
+# RMODELER INITIALIZATION
 
 Step1.Download the application code from RMODELER public repository.
 
