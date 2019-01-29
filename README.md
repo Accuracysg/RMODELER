@@ -57,6 +57,17 @@ We can simply connect  data base(MySQL,SQL Server..etc) by providing small infor
 
 User don't want to write the code for database connections.
 
-# RMODELER  VERSION 
+# RMODELER  LICENSE & VERSION 
 
 RMODELER Open Soure Released Version V1 
+
+# RMODELER  TEAM MEMBERS
+1.
+2.
+3.
+4.
+5.
+6
+
+
+
