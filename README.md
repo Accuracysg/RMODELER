@@ -5,7 +5,7 @@ Step1.Download the code from RMODELER public repository into local system
 
 
 
-Step2.Open the  RMODELER-master zip folder and extrac it then you can find the Index.html page 
+Step2.Open the  RMODELER-master zip folder and extract it then you can find the Index.html page 
 
 
 
