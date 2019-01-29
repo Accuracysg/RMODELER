@@ -15,7 +15,10 @@ Step2.Open downloaded  RMODELER-master zip folder and extract it then you can fi
 Step3:Run the Index.html page for open RMOLEDER Application
 
 
-# RMODELER DOCUMENTATION & USAGE
+# RMODELER  USAGE
 
-This application used to perform the data analytics as well as statatical modeling 
-User dont want to write the coding,we provided drag & drop option to perform the analytics
+This application used to perform the data analytics as well as R statatical modeling 
+User don't want to write the coding,we provided drag & drop option to perform the analytics
+Ex:Loading data set then apply the simple summary function
+For the above example user don't want to write the R code just drang the csv file from the application then drang the summary component from the application then run the job then we can get the basic information for that data set. 
+
