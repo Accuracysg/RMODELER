@@ -24,7 +24,7 @@ Step2.Open downloaded  RMODELER-master zip folder and extract it then you can fi
 
 Step3:Run the Index.html page for open RMOLEDER Application
 
-# RMODELER FREATURES
+# RMODELER FEATURES
 
 1.Loading the data sets..[Excel,Csv,Text formats]
 
@@ -53,10 +53,10 @@ then run the job to get the basic information for that data set.
 
 Ex2:Data base connection 
 
-We can simoly connect  data base(MySQL,SQL Server..etc) by providing small information like user name,password,dbname,host
+We can simply connect  data base(MySQL,SQL Server..etc) by providing small information like user name,password,dbname,host
 
 User don't want to write the code for database connections.
 
 # RMODELER  VERSION 
 
-ROMDELER Open Soure Realsed Version V1 
+RMDELER Open Soure Released Version V1 
