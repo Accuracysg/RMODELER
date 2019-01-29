@@ -1,6 +1,8 @@
 # RMODELER INITIALIZATION
 
-http://i.imgur.com/tXSoThF.png
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
 Step1.Download the application code from RMODELER public repository.
 
