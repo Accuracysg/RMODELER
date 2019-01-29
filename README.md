@@ -17,6 +17,12 @@ Step2.Open downloaded  RMODELER-master zip folder and extract it then you can fi
 
 Step3:Run the Index.html page for open RMOLEDER Application
 
+# RMODELER FREATURES
+
+1.Loading the data sets..[Excel,Csv,Text formats]
+2.Basic stat functions..[Summary,Min,Max,Meadian]
+2.Data Base connections
+
 
 # RMODELER  USAGE
 
