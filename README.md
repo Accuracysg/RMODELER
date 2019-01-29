@@ -57,9 +57,11 @@ We can simply connect  data base(MySQL,SQL Server..etc) by providing small infor
 
 User don't want to write the code for database connections.
 
-# RMODELER  LICENSE & VERSION 
+# RMODELER  LICENSE & VERSIONING
 
-RMODELER Open Soure Released Version V1 
+RMODELER: It's  Open Soure software
+
+RMODELER: Released Version V1 
 
 # RMODELER  TEAM MEMBERS
 1.
